@@ -1,0 +1,1 @@
+﻿package octopoda.modules {	import octopoda.modules.Module;		public class Page extends Module {		public function Page() {					}	}}

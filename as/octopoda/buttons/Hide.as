@@ -1,0 +1,1 @@
+﻿package octopoda.buttons {	import octopoda.buttons.Toogle;		public class Hide extends Toogle {				public function Hide() {			state = false;			toogling = false;		}	}}
